@@ -29,12 +29,6 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 > 🎯 Progress will be updated regularly as I solve new problems.
 
 ---
----
----
----
----
----
----
 
 ## 🗂️ Repository Structure
 leetcode-300-challenge/

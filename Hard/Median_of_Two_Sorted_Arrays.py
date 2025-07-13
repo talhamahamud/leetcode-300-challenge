@@ -12,7 +12,7 @@ class Solution:
             median=int(len(listt)/2)
             return listt[median]
             #what kind of mistake i made?
-            #1. we can measure the length of list.sort() directly.
+            #1. we can't measure the length of list.sort() directly.
             #2. and so much about the variable name.
 
             #But the things is, i solved this, Alhamdulliah!
