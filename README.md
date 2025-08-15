@@ -21,13 +21,14 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 | Difficulty | Solved | Goal | Completion |
 |------------|--------|------|------------|
 | Easy       | 4      | 200  | 2.0%       |
-| Medium     | 2      | 75   | 2.7%       |
+| Medium     | 3      | 75   | 4.0%       |
 | Hard       | 1      | 25   | 4.0%       |
-| **Total**  | 7      | 300  | 2.3%       |
+| **Total**  | 8      | 300  | 2.7%       |
 
 > 🧠 Target: Solve all 300 problems by [your target date here]
 > 🎯 Progress will be updated regularly as I solve new problems.
 
+---
 ---
 ---
 ---
