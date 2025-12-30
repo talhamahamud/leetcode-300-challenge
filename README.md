@@ -27,5 +27,3 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 
 > 🧠 Target: Solve all 300 problems by [your target date here]
 > 🎯 Progress will be updated regularly as I solve new problems.
-
----
