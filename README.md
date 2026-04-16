@@ -1,4 +1,4 @@
-# 🧠 300 LeetCode Problem Solving Challenge
+# 300 LeetCode Problem Solving Challenge
 
 Welcome to my personal journey of solving **300 LeetCode problems**!  
 This repository contains clean, well-structured solutions categorized by difficulty.  
@@ -6,7 +6,7 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 
 ---
 
-## 🎯 Challenge Goals
+## Challenge Goals
 
 - ✅ Solve 300 problems from LeetCode.
 - ✅ Practice daily for consistency.
@@ -17,18 +17,17 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 ---
 
 
-## 📊 Progress Tracker
+## Progress Tracker
 | Difficulty | Solved | Goal | Completion |
 |------------|--------|------|------------|
-| Easy       | 21     | 200  | 10.5%       |
+| Easy       | 23     | 200  | 11.5%       |
 | Medium     | 12     | 75   | 16.0%       |
 | Hard       | 3      | 25   | 12.0%       |
-| **Total**  | 36     | 300  | 12.0%       |
+| **Total**  | 38     | 300  | 12.7%       |
 
-> 🧠 Target: Solve all 300 problems by [your target date here]
-> 🎯 Progress will be updated regularly as I solve new problems.
+> Target: Solve all 300 problems by [your target date here]
+> Progress will be updated regularly as I solve new problems.
 
 ---
 ---
----
----
+
