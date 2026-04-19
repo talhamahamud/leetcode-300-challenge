@@ -32,7 +32,7 @@ def build_progress_table():
     total_solved = 0
     total_goal = 0
     lines = [
-        "## 📊 Progress Tracker",
+        "## Progress Tracker",
         "| Difficulty | Solved | Goal | Completion |",
         "|------------|--------|------|------------|"
     ]
@@ -55,7 +55,7 @@ def update_readme():
     new_table = build_progress_table()
 
     # Match everything from ## 📊 Progress Tracker to the next --- or ##
-    pattern = r"## 📊 Progress Tracker\n(?:.*\n)*?\| \*\*Total\*\*.*?\|\n?(?:.*\n)*?(?=^---|\Z|^## )"
+    pattern = r"## Progress Tracker\n(?:.*\n)*?\| \*\*Total\*\*.*?\|\n?(?:.*\n)*?(?=^---|\Z|^## )"
     replacement = new_table + "\n\n> 🧠 Target: Solve all 300 problems by [your target date here]\n> 🎯 Progress will be updated regularly as I solve new problems.\n\n---\n"
 
     updated_content = re.sub(pattern, replacement, content, flags=re.MULTILINE)

@@ -16,17 +16,16 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 
 ---
 
-
 ## Progress Tracker
 | Difficulty | Solved | Goal | Completion |
 |------------|--------|------|------------|
-| Easy       | 23     | 200  | 11.5%       |
+| Easy       | 26     | 200  | 13.0%       |
 | Medium     | 12     | 75   | 16.0%       |
 | Hard       | 3      | 25   | 12.0%       |
-| **Total**  | 38     | 300  | 12.7%       |
+| **Total**  | 41     | 300  | 13.7%       |
 
-> Target: Solve all 300 problems by [your target date here]
-> Progress will be updated regularly as I solve new problems.
+> 🧠 Target: Solve all 300 problems by [your target date here]
+> 🎯 Progress will be updated regularly as I solve new problems.
 
 ---
 ---
