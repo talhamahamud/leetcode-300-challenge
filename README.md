@@ -8,25 +8,26 @@ The goal is to **improve problem-solving skills**, and **track learning progress
 
 ## Challenge Goals
 
-- ✅ Solve 300 problems from LeetCode.
-- ✅ Practice daily for consistency.
-- ✅ Master core data structures and algorithms.
-- ✅ Write clean, optimized, and readable code.
-- ✅ Document approaches and insights.
+- Solve 300 problems from LeetCode.
+- Practice daily for consistency.
+- Master core data structures and algorithms.
+- Write clean, optimized, and readable code.
+- Document approaches and insights.
 
 ---
 
 ## Progress Tracker
 | Difficulty | Solved | Goal | Completion |
 |------------|--------|------|------------|
-| Easy       | 27     | 200  | 13.5%       |
+| Easy       | 28     | 200  | 14.0%       |
 | Medium     | 12     | 75   | 16.0%       |
 | Hard       | 3      | 25   | 12.0%       |
-| **Total**  | 42     | 300  | 14.0%       |
+| **Total**  | 43     | 300  | 14.3%       |
 
-> 🧠 Target: Solve all 300 problems by [your target date here]
-> 🎯 Progress will be updated regularly as I solve new problems.
+> Target: Solve all 300 problems by -
+> Progress will be updated regularly as I solve new problems.
 
+---
 ---
 ---
 ---

@@ -56,7 +56,7 @@ def update_readme():
 
     # Match everything from ## 📊 Progress Tracker to the next --- or ##
     pattern = r"## Progress Tracker\n(?:.*\n)*?\| \*\*Total\*\*.*?\|\n?(?:.*\n)*?(?=^---|\Z|^## )"
-    replacement = new_table + "\n\n> 🧠 Target: Solve all 300 problems by [your target date here]\n> 🎯 Progress will be updated regularly as I solve new problems.\n\n---\n"
+    replacement = new_table + "\n\n> Target: Solve all 300 problems by -\n> Progress will be updated regularly as I solve new problems.\n\n---\n"
 
     updated_content = re.sub(pattern, replacement, content, flags=re.MULTILINE)
 
