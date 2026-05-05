@@ -21,12 +21,13 @@ Welcome to my personal journey of solving **300 LeetCode problems**!. The goal i
 |------------|--------|------|------------|
 | Easy       | 29     | 200  | 14.5%       |
 | Medium     | 12     | 75   | 16.0%       |
-| Hard       | 3      | 25   | 12.0%       |
-| **Total**  | 44     | 300  | 14.7%       |
+| Hard       | 4      | 25   | 16.0%       |
+| **Total**  | 45     | 300  | 15.0%       |
 
 > Target: Solve all 300 problems by -
 > Progress will be updated regularly as I solve new problems.
 
+---
 ---
 ---
 
